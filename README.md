@@ -8,6 +8,6 @@ Entretanto, todo o resto funciona de modo automático.
 
 Ainda existem detalhes para serem arrumados e aprimorados no código, por ser o primeiro projeto que fiz por conta própria, e eu ainda pretendo melhorá-lo com os conhecimentos que eu tenho agora.
 
-O bot pode ser encotrado funcionando no link a seguir: https://twitter.com/svtemobot
+O bot pode ser encontrado funcionando no link a seguir: https://twitter.com/svtemobot
 
 Obrigado por ler até aqui! :)
