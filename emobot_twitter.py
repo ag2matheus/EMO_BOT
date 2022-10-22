@@ -4,10 +4,10 @@ import time
 
 print('emo bot arrived')
 
-CONSUMER_KEY = '5OduZSZR2y08ydStFrBliZi3x'
-CONSUMER_SECRET = '70AHRrdsCZZE2ij2JgFIUxyoNvDmgNGpkqKCr8uziQgLD5swMp'
-ACCESS_KEY = '1395751977422893056-ptYJdBC8X6R1Vi0d6yvJwRiH9sj3JB'
-ACCESS_SECRET = 'RWM3u5u4FUHFuk8WbCwWklhcPiLtneSX5Io2BpDxVTAaq'
+CONSUMER_KEY = 'given consumer key'
+CONSUMER_SECRET = 'given consumer secret'
+ACCESS_KEY = 'given access key'
+ACCESS_SECRET = 'given access secret'
 
 from tweepy import OAuthHandler
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
